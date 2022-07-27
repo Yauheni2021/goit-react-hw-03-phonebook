@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Yauheni2021.github.io/goit-react-hw-03-phonebook/static/css/main.7acaea2f.css",
-    "main.js": "/Yauheni2021.github.io/goit-react-hw-03-phonebook/static/js/main.681b57f1.js",
+    "main.js": "/Yauheni2021.github.io/goit-react-hw-03-phonebook/static/js/main.0140dd42.js",
     "index.html": "/Yauheni2021.github.io/goit-react-hw-03-phonebook/index.html",
     "main.7acaea2f.css.map": "/Yauheni2021.github.io/goit-react-hw-03-phonebook/static/css/main.7acaea2f.css.map",
-    "main.681b57f1.js.map": "/Yauheni2021.github.io/goit-react-hw-03-phonebook/static/js/main.681b57f1.js.map"
+    "main.0140dd42.js.map": "/Yauheni2021.github.io/goit-react-hw-03-phonebook/static/js/main.0140dd42.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.681b57f1.js"
+    "static/js/main.0140dd42.js"
   ]
 }
