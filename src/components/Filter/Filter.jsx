@@ -1,20 +1,15 @@
 import { PropTypes } from "prop-types";
 import {
+    FilterForm,
+    FilterLabel,
     FilterInput,
 } from './Filter.styled';
-import { Formik, Form, Label } from "formik";
-import * as yup from 'yup'; 
-
-const schema = yup.object().shape({
-    name: yup.string().required(),
-
-})
 
 export const Filter = ({ title, value, filterText }) => {
     return (
-        <Formik validationSchema={schema}>
-            <Form autoComplete="off">
-                <Label htmlFor="filter">
+        <>
+            <FilterForm autoComplete="off">
+                <FilterLabel htmlFor="filter">
                     {title}
                     <FilterInput
                         type="text"
@@ -22,9 +17,9 @@ export const Filter = ({ title, value, filterText }) => {
                         value={value}
                         onChange={filterText}
                     />
-                </Label>
-            </Form>
-        </Formik>
+                </FilterLabel>
+            </FilterForm>
+        </>
     );
 };
 
