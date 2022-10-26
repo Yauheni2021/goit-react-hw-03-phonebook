@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Yauheni2021.github.io/goit-react-hw-03-phonebook/static/css/main.1aec1b0c.css",
-    "main.js": "/Yauheni2021.github.io/goit-react-hw-03-phonebook/static/js/main.c549fede.js",
-    "index.html": "/Yauheni2021.github.io/goit-react-hw-03-phonebook/index.html",
-    "main.1aec1b0c.css.map": "/Yauheni2021.github.io/goit-react-hw-03-phonebook/static/css/main.1aec1b0c.css.map",
-    "main.c549fede.js.map": "/Yauheni2021.github.io/goit-react-hw-03-phonebook/static/js/main.c549fede.js.map"
+    "main.css": "/goit-react-hw-03-phonebook/static/css/main.1aec1b0c.css",
+    "main.js": "/goit-react-hw-03-phonebook/static/js/main.f5c124c5.js",
+    "index.html": "/goit-react-hw-03-phonebook/index.html",
+    "main.1aec1b0c.css.map": "/goit-react-hw-03-phonebook/static/css/main.1aec1b0c.css.map",
+    "main.f5c124c5.js.map": "/goit-react-hw-03-phonebook/static/js/main.f5c124c5.js.map"
   },
   "entrypoints": [
     "static/css/main.1aec1b0c.css",
-    "static/js/main.c549fede.js"
+    "static/js/main.f5c124c5.js"
   ]
 }
