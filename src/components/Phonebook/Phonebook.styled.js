@@ -1,6 +1,6 @@
 import styled from "styled-components";
 
-export const Form = styled.form`
+export const PhonebookForm = styled.form`
 width: 100%;
 display: flex;
 flex-direction: column;
@@ -9,7 +9,7 @@ align-items: center;
 padding: ${p => `${p.theme.space[3]}px`};
 `;
 
-export const Label = styled.label`
+export const PhonebookLabel = styled.label`
 width: 100%;
 display: flex;
 flex-direction: column;
@@ -19,7 +19,7 @@ margin-top: ${p => `${p.theme.space[3]}px`};
 font-size: ${p => p.theme.fontSizes.l}
 `;
 
-export const Input = styled.input`
+export const PhonebookInput = styled.input`
   width: 100%;
   margin-top: ${p => `${p.theme.space[3]}px`};
   padding: ${p => `${p.theme.space[3]}px`};
@@ -36,7 +36,7 @@ export const ErrorText = styled.p`
   font-size: ${p => p.theme.fontSizes.s};
 `;
 
-export const Button = styled.button`
+export const PhonebookButton = styled.button`
   padding: ${p => `${p.theme.space[2]}px`};
   margin-top: ${p => `${p.theme.space[3]}px`};
   width: ${p => `${p.theme.sizes[1]}px`};
